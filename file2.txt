@@ -1,1 +1,2 @@
 - Obrigacoes na Organizacao Ztex:
+1 - Todos os desenvolvedores devem dominar o GIT
