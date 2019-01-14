@@ -1,2 +1,2 @@
 - Praticas com GIT 
-
+- Alterando informacoes do README
