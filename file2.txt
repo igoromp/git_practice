@@ -1,2 +1,3 @@
 - Obrigacoes na Organizacao Ztex:
 1 - Todos os desenvolvedores devem dominar o GIT
+2 - A metodologia de desenvolvimento adotado sempre será o AGILE

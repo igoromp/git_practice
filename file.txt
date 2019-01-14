@@ -5,3 +5,9 @@
  - email: anonimo@ztex.com
  - Date: 13/01/2019
 
+-  Corporation: Ztex IT Solutions
+
+ SOBRE A ORGANIZACAO:
+
+ Fundada em 13 de janeiro de 2019 a empresa tem como principal foco, o desenvolvimento de solucoes em 
+ utilizando Big Data e Learning Machine.
